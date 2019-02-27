@@ -3,10 +3,6 @@ class School
   attr_accessor :roster
   attr_reader :name
 
-  # def roster=
-  #   roster = {}
-  # end
-
   def roster
     roster
   end
